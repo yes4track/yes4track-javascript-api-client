@@ -1,6 +1,6 @@
 {
   "name": "caspianyes4_trackservice_api",
-  "version": "v1",
+  "version": "1.0.0",
   "description": "Caspian_Yes4Track_Service_API",
   "license": "Use under MIT License",
   "main": "src/index.js",
